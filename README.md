@@ -1,4 +1,4 @@
-# "Easy Dwelling" Second-hand House Trading Website
+# Easy Dwelling Real Estate Marketplace Platform
 ### Description
 The “Easy Dwelling” web is mainly for users who want to find second-hand housing information. Customers use the combined query to find the attractive candidates, then carefully check the detailed properties of them.  
 The administrators not only can act as normal users but also have the privilege to add, delete, update housing information as well as the users' accessibility and website announcements.  
